@@ -34,7 +34,7 @@ A simple user authentication system using PHP and MySQL without frameworks. Supp
    ```
    - Open `http://localhost:8000/views/login.php` in your browser
 
-## Database Schema 🗄
+## Database Schema 🛢
 ```sql
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
